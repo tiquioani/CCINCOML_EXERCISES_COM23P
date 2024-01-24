@@ -1,0 +1,23 @@
+ALGORITHM:
+
+1. Start the bet
+2. Take the dealer's cards
+3. Define the value of the cards
+4. Perform a computation to determine the next move.
+5. IF the value of the two cards is below 17, take a hit and get the third card
+6. ELSE IF the value of the two cards is 18 to 20, remain with the sum and stand with it
+7. See results if win or lose
+
+
+PSEUDOCODE:
+
+int x <-- dealer's cards value
+
+IF x is less than or equal to 17 THEN
+OUTPUT "Take another hit"
+
+ELSE IF x is greater than 18 or equal to 20 THEN
+OUTPUT "Stand with the value"
+
+
+ 
