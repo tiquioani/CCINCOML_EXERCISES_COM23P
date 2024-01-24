@@ -1,0 +1,9 @@
+PSEUDOCODE:
+
+num <-- User Input
+
+IF num is divided by two, THEN the remainder is zero
+OUTPUT "num is even"
+
+ELSE
+OUTPUT "num is odd"
